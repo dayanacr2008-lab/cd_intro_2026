@@ -2,4 +2,4 @@
 Ejemplo clase de introducción a la ciencia de datos
 # Título principal (H1)
 
-![Texto alternativo](descarga (1).jpg)
+![Texto alternativo](descarga.jpg)
