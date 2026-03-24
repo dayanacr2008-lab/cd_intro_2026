@@ -4,5 +4,5 @@ Ejemplo clase de introducción a la ciencia de datos
 ![Texto alternativo](descarga.jpg)
 ![Logo](https://i.pinimg.com/736x/6d/41/da/6d41da3dec101e4e07a3c2cfb151f61f.jpg)
 <p align="center">
-    <img src="ruta/imagen.png" alt="Descripción" width="500"/>
+    <img src="descarga.png" alt="Img" width="500"/>
 </p>
